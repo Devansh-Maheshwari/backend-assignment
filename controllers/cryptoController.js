@@ -4,7 +4,7 @@ const { std } = require('mathjs');
 // Task 2: Fetch latest stats for a cryptocurrency
 const getStats = async (req, res) => {
     const { coin } = req.query;
-    console.log(coin)
+    // console.log(coin)
     if (!coin) {
         return res.status(400).json({ error: 'Coin parameter is required.' });
     }
