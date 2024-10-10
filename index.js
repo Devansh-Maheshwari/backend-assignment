@@ -1,7 +1,7 @@
 const express=require('express')
 const mongoose=require('mongoose');
 const fetchCryptoData=require('./controllers/fetchCryptoData')
-const cryptoRoutes = require('./routes/cryptoRoutes');
+const cryptoRoutes = require('./Routes/cryptoRoutes');
 const schedule = require('node-schedule');
 require('dotenv').config();
 
