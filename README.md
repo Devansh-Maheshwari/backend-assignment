@@ -1,4 +1,4 @@
-# 🚀 Crypto Data Tracker
+# 🚀 Crypto  Tracker
 
 This project is a **Node.js** and **MongoDB**-based backend service that fetches, stores, and provides cryptocurrency price statistics and market data. It includes a scheduled job to fetch price data every **2 hours** and APIs to retrieve the latest price stats and price deviation.
 
@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Devansh-Maheshwari/backend-assignment.git  
+   git clone https://github.com/Devansh-Maheshwari/crypto-tracker.git  
    cd backend-assignment
    ```
 
