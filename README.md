@@ -33,7 +33,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Devansh-Maheshwari/crypto-tracker.git  
-   cd backend-assignment
+   cd crypto-tracker
    ```
 
 2. **Install Dependencies**
