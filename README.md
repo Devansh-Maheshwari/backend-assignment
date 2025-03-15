@@ -2,6 +2,8 @@
 
 This project is a **Node.js** and **MongoDB**-based backend service that fetches, stores, and provides cryptocurrency price statistics and market data. It includes a scheduled job to fetch price data every **2 hours** and APIs to retrieve the latest price stats and price deviation.
 
+Live Link: [Crypto Tracker](https://backend-assignment-f4se.onrender.com)
+
 ---
 
 ## 🛠️ Tech Stack
